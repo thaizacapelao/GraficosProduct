@@ -8,7 +8,27 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 ![image](https://user-images.githubusercontent.com/104083691/208946396-e2ff1e28-09e6-44a1-8ccd-4cfb5f6a9df3.png)
 
 
+## 💻 Projeto:
 
+Gráfico para gerar valores de receitas e colheitas, feito a partir de um ERP (voltado para o Agronegocio).
+
+## :hammer_and_wrench: Features:
+
+-   [ ] Utilizando a biblioteca Recharts;
+-   [ ] Utilização de variáveis CSS/SaSS;
+-   [ ] Trabalhando com o flex box;
+-   [ ] Criação de Cards;
+
+
+## ✨ Linguagens utilizadas:
+
+-   [ ] HTML.
+-   [ ] CSS.
+-   [ ] React/typescript.
+
+## 🔖 Layout:
+
+Você pode visualizar o layout do projeto através [desse link]().
 
 
 ## Available Scripts
