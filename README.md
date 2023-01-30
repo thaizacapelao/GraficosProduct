@@ -22,9 +22,8 @@ Gráfico para gerar valores de receitas e colheitas, feito a partir de um ERP (v
 
 ## ✨ Linguagens utilizadas:
 
--   [ ] HTML.
--   [ ] CSS.
 -   [ ] React/typescript.
+-   [ ] CSS.
 
 ## 🔖 Layout:
 
