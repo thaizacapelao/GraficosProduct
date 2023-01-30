@@ -15,6 +15,8 @@ Gráfico para gerar valores de receitas e colheitas, feito a partir de um ERP (v
 ![image](https://user-images.githubusercontent.com/104083691/208946293-be6556e3-cb1d-41ea-881b-8ac70419806d.png)
 ![image](https://user-images.githubusercontent.com/104083691/208946361-4565941c-f2d1-4668-834e-b02e558690e6.png)
 ![image](https://user-images.githubusercontent.com/104083691/208946396-e2ff1e28-09e6-44a1-8ccd-4cfb5f6a9df3.png)
+![image](https://user-images.githubusercontent.com/104083691/215518445-0d063aed-1d0b-435e-8561-ee31afc30464.png)
+
 
 
 ## ✨ Linguagens utilizadas:
