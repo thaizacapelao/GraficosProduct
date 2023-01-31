@@ -4,13 +4,6 @@
 
 Gráfico para gerar valores de receitas e colheitas, feito a partir de um ERP (voltado para o Agronegocio).
 
-## :hammer_and_wrench: Features:
-
--   [ ] Utilizando a biblioteca Recharts;
--   [ ] Utilização de variáveis CSS/SaSS;
--   [ ] Trabalhando com o flex box;
--   [ ] Criação de Cards;
-
 ![image](https://user-images.githubusercontent.com/104083691/215515773-011612bb-bfe9-480c-994c-8f68c947eeab.png)
 ![image](https://user-images.githubusercontent.com/104083691/208946293-be6556e3-cb1d-41ea-881b-8ac70419806d.png)
 ![image](https://user-images.githubusercontent.com/104083691/208946361-4565941c-f2d1-4668-834e-b02e558690e6.png)
@@ -19,7 +12,12 @@ Gráfico para gerar valores de receitas e colheitas, feito a partir de um ERP (v
 ![image](https://user-images.githubusercontent.com/104083691/215519200-ce66f5ce-7f3b-4d11-a82e-6eca0d2758e3.png)
 
 
+## :hammer_and_wrench: Features:
 
+-   [ ] Utilizando a biblioteca Recharts;
+-   [ ] Utilização de variáveis CSS/SaSS;
+-   [ ] Trabalhando com o flex box;
+-   [ ] Criação de Cards;
 
 ## ✨ Linguagens utilizadas:
 
