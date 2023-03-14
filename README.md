@@ -2,7 +2,7 @@
 
 ## 💻 Projeto:
 
-Gráfico para gerar valores de receitas e colheitas, feito a partir de um ERP (voltado para o Agronegocio).
+Gráfico para gerar valores de receitas e colheitas, feito para um ERP (voltado para o Agronegocio).
 
 ![image](https://user-images.githubusercontent.com/104083691/215515773-011612bb-bfe9-480c-994c-8f68c947eeab.png)
 ![image](https://user-images.githubusercontent.com/104083691/208946293-be6556e3-cb1d-41ea-881b-8ac70419806d.png)
